@@ -6,3 +6,4 @@ npm-debug.log
 .*.sw[op]
 test/fixtures/*.log
 .idea
+/.project
