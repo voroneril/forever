@@ -27,7 +27,7 @@
     "flatiron": "~0.4.3",
     "forever-monitor": "^3.0.3",
     "mkdirp": "^0.5.5",
-    "nssocket": "^0.6.0",
+    "nssocket": "git+https://github.com/foreversd/nssocket.git",
     "object-assign": "git+https://github.com/sindresorhus/object-assign.git",
     "prettyjson": "^1.2.2",
     "shush": "^1.0.0",
